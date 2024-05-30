@@ -50,13 +50,13 @@ const about = () => {
                         <div className='col-span-3 flex flex-col items-start justify-start xl:col-span-4 md:order-2 md:col-span-8'>
                             <h2 className='mb-4 text-lg font-bold uppercase text-dark/75 dark:text-light/75'>Biography</h2>
                             <p className='font-medium'>
-                                Hello, I'm VisionTey, an experienced web developer and UI/UX designer driven by a deep passion for crafting
+                                Hello, I&apos;m VisionTey, an experienced web developer and UI/UX designer driven by a deep passion for crafting
                                 captivating digital experiences that seamlessly blend aesthetics with functionality. With a solid background
-                                of 3 years in the industry, I am constantly seeking fresh and inventive approaches to transform my clients'
+                                of 3 years in the industry, I am constantly seeking fresh and inventive approaches to transform my clients&apos;
                                 visions into  vibrant realities.
                             </p>
                             <p className='my-4 font-medium'>
-                                I believe that design is about more than just making things look pretty – it's about solving problems and
+                                I believe that design is about more than just making things look pretty – it&apos;s about solving problems and
                                 creating intuitive, enjoyable experiences for users.
                             </p>
                             <p className='font-medium'>
