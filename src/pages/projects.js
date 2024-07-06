@@ -115,10 +115,10 @@ const projects = () => {
                     <div className='grid grid-cols-12 gap-24 gap-y-32 xl:gap-x-16 lg:gap-x-8 md:gap-y-24 sm:gap-x-0'>
                         <div className='col-span-12'>
                             <FeaturedProject
-                                title="Crypto Screener Application"
-                                summary="A feature-rich Crypto Screener App using React, Tailwind CSS, Context API, React Router and Recharts. 
-                        It shows detail regarding almost all the cryptocurrency. You can easily convert the price in your 
-                        local currency."
+                                title="E-commerce site"
+                                summary="A dynamic ecommerce site built with React.js and Firebase. 
+                                It offers a wide range of products, featuring real-time data updates 
+                                and secure transactions. With a user-friendly interface and fast performance, you can easily browse, shop, and track your orders seamlessly."
                                 link="https://edumart.netlify.app/"
                                 type="Featured Project"
                                 img={ecommerce1}
@@ -127,7 +127,7 @@ const projects = () => {
                         </div>
                         <div className='col-span-6 sm:col-span-12'>
                             <Project
-                                title="Crypto Screener Application"
+                                title="Dashboard project"
                                 link="https://vi-dashboard.vercel.app/"
                                 type="Project-1"
                                 img={dashboard1}
@@ -136,7 +136,7 @@ const projects = () => {
                         </div>
                         <div className='col-span-6 sm:col-span-12'>
                             <Project
-                                title="Crypto Screener Application"
+                                title="Art Picture gallery"
                                 link="https://art-gram-e6fdc.web.app/"
                                 type="Project-2"
                                 img={artgram}
@@ -145,10 +145,11 @@ const projects = () => {
                         </div>
                         <div className='col-span-12'>
                             <FeaturedProject
-                                title="Crypto Screener Application"
-                                summary="A feature-rich Crypto Screener App using React, Tailwind CSS, Context API, React Router and Recharts. 
-                        It shows detail regarding almost all the cryptocurrency. You can easily convert the price in your 
-                        local currency."
+                                title="Blogs Web Application"
+                                summary="A robust blog site built with React.js and Firebase. 
+                                It allows users to create, read, and comment on posts with real-time
+                                 updates. Featuring a clean and intuitive interface, it ensures an 
+                                 engaging and interactive experience for both writers and readers."
                                 link="https://blogs-website-ca0d1.web.app/"
                                 type="Featured Project"
                                 img={blogs}
@@ -157,7 +158,7 @@ const projects = () => {
                         </div>
                         <div className='col-span-6 sm:col-span-12'>
                             <Project
-                                title="Crypto Screener Application"
+                                title="Memories Web Application"
                                 link="https://memories-project-seven.vercel.app/"
                                 type="Project-3"
                                 img={memories1}
@@ -166,7 +167,7 @@ const projects = () => {
                         </div>
                         <div className='col-span-6 sm:col-span-12'>
                             <Project
-                                title="Crypto Screener Application"
+                                title="Organisation Website"
                                 link="https://lochel-compassion-uganda.netlify.app/"
                                 type="Project-4"
                                 img={lochel}
