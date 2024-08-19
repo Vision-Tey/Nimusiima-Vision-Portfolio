@@ -170,7 +170,7 @@ const articles = () => {
                         />
                         <Article
                             title="Form Validation In Reactjs: Build A Reusable Custom Hook For Inputs And Error Handling"
-                            date="March 22, 2023"
+                            date="March 22, 2024"
                             link="/"
                             img={article3}
                         />
