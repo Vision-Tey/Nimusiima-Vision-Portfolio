@@ -50,6 +50,15 @@ const Experience = () => {
 
                 <ul className='w-full flex flex-col items-start justify-between ml-4 xs:ml-2'>
                     <Details
+                        position="Frontend Developer" company="Cherio"
+                        companyLink="https://www.linkedin.com/company/cherio-technology"
+                        time="Feb 2024 - Dec 2024" address="Kampala Uganda"
+                        work="Worked and collaborated on an exciting agritech product at Cherio as a frontend developer which was a coffee value chain tracker and traceability tool aimed at providing traceable value chains where
+                        i was responsible for the development of the user interface using Reactjs and tailwindcss,
+                        collaborated with backend developers to implement APIs for user authentication, tracking and traceability,
+                        worked closely with product managers to translate business requirements into functional UI components."
+                    />
+                    <Details
                         position="Group Lead - Editor Project" company="Dowell"
                         companyLink="www.google.com"
                         time="Feb 2023 - Present" address="Delhi, India"
@@ -81,7 +90,7 @@ const Experience = () => {
                           Mobile app built in Java, Dashboard built in React js, mobile app Backend built-in Django and a php server
                            for receiving responses from USSD and website."
                     />
-                
+
                 </ul>
             </div>
         </div>
