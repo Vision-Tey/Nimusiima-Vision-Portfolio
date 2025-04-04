@@ -42,7 +42,7 @@ export default function Home() {
 
               </p>
               <div className='flex items-center self-start mt-2 lg:self-center'>
-                <Link href="/Nimusiima_Vision.pdf" target={"_blank"}
+                <Link href="/Nimusiima Vision cv.pdf" target={"_blank"}
                 className='flex items-center bg-dark text-light p-2.5 px-6 rounded-lg text-lg font-semibold hover:bg-light hover:text-dark
                 border-2 border-solid border-transparent hover:border-dark
                 dark:bg-light dark:text-dark hover:dark:bg-dark hover:dark:text-light
